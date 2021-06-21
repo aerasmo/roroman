@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a34b5316ec1ed34791113ed3370c747, type: 3}
+  m_Name: _Turtle
+  m_EditorClassIdentifier: 
+  name: Turtle
+  health: 150
+  bounty: 500
+  speed: 0.1
+  routes:
+  - {fileID: 3145410188231440925, guid: 8731492d7a96e904c9debc20acb90f67, type: 3}

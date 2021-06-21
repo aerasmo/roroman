@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bullet
+  - boat
+  - enemies
+  - OVERLAY
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sea
+    uniqueID: 2429822729
+    locked: 0
+  - name: units
+    uniqueID: 245830089
+    locked: 0
+  - name: bullet
+    uniqueID: 1448257725
+    locked: 0
+  - name: UI
+    uniqueID: 2709724125
+    locked: 0
+  - name: Skills
+    uniqueID: 3387398415
+    locked: 0
+  - name: overlay
+    uniqueID: 2074273687
+    locked: 0
+  - name: wwww
+    uniqueID: 3500793987
+    locked: 0
