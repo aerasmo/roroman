@@ -10,9 +10,11 @@ The babaylan gave him the agimat that wields him three lives and the ability to 
 
 ---
 
+## Preview
+![image](https://user-images.githubusercontent.com/70811340/122709818-9d88a100-d291-11eb-8341-71e9243e8113.png)
 ![image](https://user-images.githubusercontent.com/70811340/122707983-af684500-d28d-11eb-9367-694c204082d6.png)
 ![image](https://user-images.githubusercontent.com/70811340/122708040-cc9d1380-d28d-11eb-8f03-e8cc9bee342e.png)
-![image](https://user-images.githubusercontent.com/70811340/122707923-965f9400-d28d-11eb-8bb8-0740a12eed78.png)
+
 
 [Exe file](https://www.dropbox.com/sh/vem2440ifyaswnf/AABP_WLWnqq3PbGhIn29MDbVa?dl=0)
 
