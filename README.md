@@ -1,6 +1,7 @@
 # ROROMAN
-ROROMAN is a game developed in unity for a game development subject in school. Sprites and Assets are created by members. 
-- [Exe file Link](https://www.dropbox.com/sh/vem2440ifyaswnf/AABP_WLWnqq3PbGhIn29MDbVa?dl=0)
+ROROMAN is a game developed in unity for a game development subject in school. Sprites and Assets are created by members. *THIS GAME IS UNFINISHED ONLY LEVEL 1 and ENDLESS is playable * and is lacking other features
+
+- [Exe file Link](https://www.dropbox.com/sh/vem2440ifyaswnf/AABP_WLWnqq3PbGhIn29MDbVa?dl=0) 
 
 ## Game Concept: 
 ROROMAN is a bullet hell pixel game that is set in the waters. It is a 2D side scrolling adventure game where the player progresses after clearing the different stages in the game. 
