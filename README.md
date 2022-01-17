@@ -1,6 +1,5 @@
 # ROROMAN
-ROROMAN is a game developed in unity for a game development subject in school. Sprites and Assets are created by members. *THIS GAME IS UNFINISHED ONLY LEVEL 1 and ENDLESS is playable * and is lacking other features
-
+ROROMAN is a game developed in unity for a game development subject in school. Sprites and Assets are created by the group members. 
 - [Exe file Link](https://www.dropbox.com/sh/vem2440ifyaswnf/AABP_WLWnqq3PbGhIn29MDbVa?dl=0) 
 
 ## Game Concept: 
@@ -39,5 +38,6 @@ The babaylan gave him the agimat that wields him three lives and the ability to 
 - Islands, volcanoes
 
 ---
+*THIS GAME IS UNFINISHED ONLY LEVEL 1 and ENDLESS is playable * and is lacking other features
 
 Team Members:  Jhon Bayquen, Emmanuel Calanoc, Patrick Castro, Angelo Erasmo, Julius Nocon, Neal San Andres, Nathan Vallesteros
